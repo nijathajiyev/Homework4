@@ -1,0 +1,13 @@
+.about2-h1{
+    color: var(--colorMain);
+    font-family: var(--fondTimes);
+    font-weight: bold;
+    border-bottom: 1px solid #eee;
+    font-size: 32px;
+}
+.port-img img{
+    width: 97%;
+    height: 97%;
+    padding-top: 10px;
+    object-fit: cover;
+}

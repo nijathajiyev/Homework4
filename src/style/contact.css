@@ -1,0 +1,30 @@
+
+.about{
+    color: var(--colorMain);
+    font-family: var(--fondTimes);
+    font-weight: bold;
+    border-bottom: 1px solid #eee;
+    font-size: 32px;
+}
+
+.form-contact{
+    margin-top: 30px;
+}
+
+.form-contact-text{
+    color: var(--colorP);
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.form-contact-inp{
+    border: 1px solid black;
+    border-radius: 0;
+}
+
+.form-contact-b{
+    background-color: var(--colorMain);
+    color: #fff;
+    border-radius: 0;
+    padding: 15px 30px;
+}
